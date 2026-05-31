@@ -16,6 +16,15 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 Add Code here
+```
+def result(a, b):
+    return a % b
+a = int(input())
+b = int(input())
+print(result(a, b))
+```
 
 ## Output
+<img width="582" height="254" alt="image" src="https://github.com/user-attachments/assets/8294ee49-f85a-488b-8371-98c7673300a0" />
+
 ## Result
